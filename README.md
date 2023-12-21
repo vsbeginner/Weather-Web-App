@@ -1,4 +1,3 @@
-Weather Forecasting Website 
 Weather Forecasting Website is created using Html, Css and Javascript
 This website is dynamic in nature .
 In this website we have used a weather API from OpenWeathermap.org .
